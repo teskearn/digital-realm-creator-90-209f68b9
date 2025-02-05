@@ -57,7 +57,7 @@ const Portfolio = () => {
     {
       title: "Fitness Tracking App",
       description: "Comprehensive fitness tracking application with workout plans and progress monitoring.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/45ff1a44-fb43-46e9-9501-a597d82a2891.png",
       category: "mobile",
       technologies: ["Flutter", "Firebase", "Node.js"],
       client: "FitLife Apps",
