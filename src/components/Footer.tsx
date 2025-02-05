@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Phone, MapPin } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -12,6 +13,16 @@ const Footer = () => {
             <p className="text-gray-600">
               Transforming ideas into digital reality
             </p>
+            <div className="space-y-2">
+              <div className="flex items-center gap-2 text-gray-600">
+                <Phone className="w-4 h-4" />
+                <span>+256772653789</span>
+              </div>
+              <div className="flex items-center gap-2 text-gray-600">
+                <MapPin className="w-4 h-4" />
+                <span>Kampala, Uganda</span>
+              </div>
+            </div>
           </div>
           
           <div>
