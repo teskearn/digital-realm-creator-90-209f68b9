@@ -1,5 +1,5 @@
 
-import { Globe, Code, ShoppingCart, Smartphone, Award, Clock, Users, Tool } from "lucide-react";
+import { Globe, Code, ShoppingCart, Smartphone, Award, Clock, Users, Wrench } from "lucide-react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
@@ -44,7 +44,7 @@ const Index = () => {
       description: "Your success is our priority. We listen and deliver results.",
     },
     {
-      icon: <Tool className="w-6 h-6" />,
+      icon: <Wrench className="w-6 h-6" />,
       title: "Latest Technology",
       description: "We use cutting-edge tools and frameworks for optimal results.",
     },
