@@ -66,7 +66,7 @@ const Portfolio = () => {
     {
       title: "Marketing Analytics Dashboard",
       description: "Real-time marketing analytics dashboard with customizable reports.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/5be856a4-f4f7-42a4-9484-ad66607ce64c.png",
       category: "analytics",
       technologies: ["React", "D3.js", "Python", "AWS"],
       client: "Marketing Pro Agency",
