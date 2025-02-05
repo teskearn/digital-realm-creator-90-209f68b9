@@ -48,7 +48,7 @@ const Portfolio = () => {
     {
       title: "Real Estate Platform",
       description: "Property listing and management platform with virtual tour capabilities.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/0a2aa67d-800c-4cde-9cff-c6519744a93a.png",
       category: "web",
       technologies: ["Vue.js", "Laravel", "PostgreSQL"],
       client: "Real Estate Group",
