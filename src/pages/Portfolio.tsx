@@ -39,7 +39,7 @@ const Portfolio = () => {
     {
       title: "Corporate Website",
       description: "Modern and responsive website showcasing company services and portfolio.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/4ccfa46b-6db3-4d6d-92b6-01d52a9bbb44.png",
       category: "web",
       technologies: ["Next.js", "Tailwind CSS", "Contentful"],
       client: "Corporate Solutions Inc",
