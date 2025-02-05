@@ -52,7 +52,7 @@ const Contact = () => {
                   <MapPin className="w-6 h-6" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Location</h3>
-                <p className="text-gray-600">123 Tech Street, San Francisco, CA</p>
+                <p className="text-gray-600">Kampala, Uganda</p>
               </div>
               
               <div className="text-center">
