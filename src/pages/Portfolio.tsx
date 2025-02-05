@@ -21,7 +21,7 @@ const Portfolio = () => {
     {
       title: "E-commerce Platform",
       description: "A fully-featured online store with inventory management and payment processing.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/2d51ee4e-6ed5-4089-a3a6-ce4b37dbcffc.png",
       category: "e-commerce",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
       client: "Fashion Retail Co.",
