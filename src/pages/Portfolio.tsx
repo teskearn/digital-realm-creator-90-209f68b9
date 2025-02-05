@@ -30,7 +30,7 @@ const Portfolio = () => {
     {
       title: "Mobile Banking App",
       description: "Secure and user-friendly mobile banking application with real-time transactions.",
-      image: "https://placehold.co/600x400",
+      image: "/lovable-uploads/e629cedd-f1aa-4b12-a0f5-1edb88101805.png",
       category: "mobile",
       technologies: ["React Native", "Firebase", "TypeScript"],
       client: "Digital Bank Ltd",
