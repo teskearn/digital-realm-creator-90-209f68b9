@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { ExternalLink } from "lucide-react";
 import Navbar from "../components/Navbar";
@@ -25,7 +24,7 @@ const Portfolio = () => {
       category: "e-commerce",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
       client: "Fashion Retail Co.",
-      link: "#",
+      link: "/ecommerce-platform",
     },
     {
       title: "Mobile Banking App",
